@@ -1,13 +1,16 @@
 ---
-title: Manifesto
+title: Development 
 date: 2022-12-23 12:38:54 
+update: 2022-12-28 16:36:17
 categories: [dummy]
 tags: [info]
 ---
 
-# Manifesto for Project
+# Development of Tools
 
 Some remarks about what is being developed.
+
+## Visual Studio Code
 
 Needed to create this VSCode snippet for the front matter in this file:
 
