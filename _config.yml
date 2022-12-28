@@ -27,6 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Consistent, Open-Source Data for HAdron Resonance Physics Analysis
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+baseurl: "cosdharpa"
 url: 'https://DaveIreland.github.io'
 
 github:
