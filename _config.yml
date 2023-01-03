@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: '/dharpa'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -19,7 +19,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DHARPA                         # the main title
+title: DHARPA-test                         # the main title
 
 tagline: Data for HAdron Resonance Physics Analysis   # it will display as the sub-title
 
@@ -27,7 +27,6 @@ description: >-                        # used by seo meta and the atom feed
   Consistent, Open-Source Data for HAdron Resonance Physics Analysis
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-#baseurl: "/dharpa"
 url: 'https://DaveIreland.github.io'
 
 github:
