@@ -35,7 +35,7 @@ Needed to create this VSCode snippet for the front matter in this file:
 ## Some links to resources needed to get this far with Jekyll:
  
  * [Homelab - YouTube](https://www.youtube.com/watch?v=F8iOU1ci19Q)
- * [Homelab - associated documentation](//https://docs.technotim.live/posts/jekyll-docs-site/)
+ * [Homelab - associated documentation](https://docs.technotim.live/posts/jekyll-docs-site/)
  * [Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets)
  * [VS Code snippets to generate Markdown front matter](https://dev.to/ceceliacreates/use-vs-code-snippets-to-generate-markdown-front-matter-fpc)
  * [Jekyll Chirpy Theme](https://chirpy.cotes.page/)
