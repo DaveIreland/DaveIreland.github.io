@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting GiHub Pages working
+title: Getting GitHub Pages working
 date: 2023-01-15 17:13:40
 ---
 
